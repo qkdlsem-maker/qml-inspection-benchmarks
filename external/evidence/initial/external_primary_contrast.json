@@ -1,0 +1,17 @@
+{
+  "unit": "observed date",
+  "difference_order": "coupled minus matched RBF",
+  "observed_detection_difference": 194,
+  "coupled_minus_uncoupled": 8,
+  "observed_difference_per_100_inspections": 7.206537890044577,
+  "coupled_wins": 16,
+  "ties": 4,
+  "coupled_losses": 0,
+  "uncertainty_note_sha256": "e5069e44ef1d23b30d416de464c3d15723358dbd8de98db87bdd5ec7ebd981a1",
+  "block_length": 5,
+  "bootstrap_seed": 20261123,
+  "replicates": 10000,
+  "usable_replicates": 10000,
+  "lower_percentile": 3.390709349618967,
+  "upper_percentile": 11.245222813902336
+}
