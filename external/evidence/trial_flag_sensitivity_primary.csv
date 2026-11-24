@@ -1,0 +1,12 @@
+cohort,model,eligible,D_shots,other_nonblank_flag,without_D_shots,positive,positive_D,positive_without_D,test_dates,positive_dates,slots,selected_D,selected_without_D,hits,hits_D,hits_without_D,dates_with_detection,selected_in_common_with_coupled,positives_in_common_with_coupled
+All eligible shots,Q4 + RZZ,26916,913,0,26003,1122,913,209,20,20,2692,709,1983,883,709,174,20,2692,883
+All eligible shots,PCA4 RBF,26916,913,0,26003,1122,913,209,20,20,2692,544,2148,689,544,145,19,2315,685
+All eligible shots,Q4 no RZZ,26916,913,0,26003,1122,913,209,20,20,2692,699,1993,875,699,176,20,2525,861
+All eligible shots,PCA4 logistic,26916,913,0,26003,1122,913,209,20,20,2692,762,1930,883,762,121,20,2153,809
+All eligible shots,Chronology only,26916,913,0,26003,1122,913,209,20,20,2692,42,2650,61,42,19,15,232,40
+All eligible shots,"D flag first, then chronology",26916,913,0,26003,1122,913,209,20,20,2692,913,1779,924,913,11,20,854,720
+Shots without D only,Q4 + RZZ,26003,0,0,26003,209,0,209,20,19,2601,0,2601,179,0,179,19,2601,179
+Shots without D only,PCA4 RBF,26003,0,0,26003,209,0,209,20,19,2601,0,2601,150,0,150,18,2246,147
+Shots without D only,Q4 no RZZ,26003,0,0,26003,209,0,209,20,19,2601,0,2601,184,0,184,18,2414,175
+Shots without D only,PCA4 logistic,26003,0,0,26003,209,0,209,20,19,2601,0,2601,133,0,133,19,1982,125
+Shots without D only,Chronology only,26003,0,0,26003,209,0,209,20,19,2601,0,2601,17,0,17,9,259,17

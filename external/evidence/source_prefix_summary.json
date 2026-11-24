@@ -1,0 +1,59 @@
+{
+  "sources": {
+    "analysis": {
+      "repository": "yeonduhaeyo/diecasting-project",
+      "commit": "3010621441321d2d51f8043d0edc4ac6440cd80f",
+      "repository_path": "data/train.csv",
+      "git_blob": "5319bc94337c0ad0284553f2611f5ec31c13fd98",
+      "encoding": "utf-8",
+      "bytes": 17920698,
+      "sha256": "9af575abe2180db7ab7b102eafce26511fe8bffefc8954e741731dd745c46320"
+    },
+    "competition": {
+      "repository": "greatsangho/2024-Kamp-Competition",
+      "commit": "ad2b1147ea73fcdd54fed0507ed2f73da3c652b9",
+      "repository_path": "data/\uacbd\uc9c4\ub300\ud68c\uc6a9 \uc8fc\uc870 \uacf5\uc815\ucd5c\uc801\ud654 \ub370\uc774\ud130\uc14b.csv",
+      "git_blob": "fa4909461f32ee163686b04ac51e7c9f95f6b753",
+      "encoding": "cp949",
+      "bytes": 21479807,
+      "sha256": "1894052d1091642a110cd76710e9d8bd995d4a30188a75d6c4fe184bf82dcf4f"
+    }
+  },
+  "excluded_field": "passorfail",
+  "compared_field_count_including_id": 31,
+  "duplicate_competition_ids": 0,
+  "timestamps_nondecreasing": true,
+  "analysis_rows": 73612,
+  "competition_rows": 92015,
+  "analysis_fraction": 0.8,
+  "exact_chronological_prefix_on_all_nonoutcome_fields": true,
+  "first_timestamp": "2019-01-02 16:45:06",
+  "last_analysis_timestamp": "2019-03-12 06:10:59",
+  "first_suffix_timestamp": "2019-03-12 06:12:13",
+  "last_competition_timestamp": "2019-03-31 23:59:48",
+  "suffix_rows": 18403,
+  "suffix_rows_on_last_analysis_date": 1097,
+  "strictly_later_calendar_days": 19,
+  "strictly_later_rows": 17306,
+  "strictly_later_rows_by_date": {
+    "2019-03-13": 1401,
+    "2019-03-14": 1212,
+    "2019-03-15": 1176,
+    "2019-03-16": 1229,
+    "2019-03-17": 571,
+    "2019-03-18": 1084,
+    "2019-03-19": 1213,
+    "2019-03-20": 1262,
+    "2019-03-21": 1265,
+    "2019-03-22": 1270,
+    "2019-03-23": 1174,
+    "2019-03-24": 556,
+    "2019-03-25": 1152,
+    "2019-03-26": 695,
+    "2019-03-27": 575,
+    "2019-03-28": 606,
+    "2019-03-29": 597,
+    "2019-03-30": 193,
+    "2019-03-31": 75
+  }
+}

@@ -1,0 +1,9 @@
+window,cohort,model,dates,eligible,positive,slots,hits,hits_D,hits_without_D,recall,pooled_ap
+Primary,All eligible shots,Full Extra Trees,20,26916,1122,2692,935,751,184,0.8333333333333334,0.7892525048168919
+Primary,All eligible shots,PCA4 Extra Trees,20,26916,1122,2692,894,721,173,0.7967914438502673,0.7362705396091307
+Primary,Shots without D only,Full Extra Trees,20,26003,209,2601,185,0,185,0.8851674641148325,0.5911797537978752
+Primary,Shots without D only,PCA4 Extra Trees,20,26003,209,2601,175,0,175,0.8373205741626795,0.38427887478897804
+Continuation,All eligible shots,Full Extra Trees,19,17306,674,1731,596,554,42,0.884272997032641,0.8479897682391081
+Continuation,All eligible shots,PCA4 Extra Trees,19,17306,674,1731,558,528,30,0.827893175074184,0.76758145804324
+Continuation,Shots without D only,Full Extra Trees,19,16685,53,1669,43,0,43,0.8113207547169812,0.39362663985224683
+Continuation,Shots without D only,PCA4 Extra Trees,19,16685,53,1669,31,0,31,0.5849056603773585,0.1790645802824074
