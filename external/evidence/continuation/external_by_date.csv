@@ -1,0 +1,191 @@
+policy,model,date,units,slots,defects,hits,tie_min,tie_max,tie_expected
+Largest remainder,Q4 + RZZ,2019-03-13,1401,140,52,28,28,28,28.0
+Largest remainder,PCA4 RBF,2019-03-13,1401,140,52,14,14,14,14.0
+Largest remainder,Q4 no RZZ,2019-03-13,1401,140,52,30,30,30,30.0
+Largest remainder,PCA4 logistic,2019-03-13,1401,140,52,33,33,33,33.0
+Largest remainder,Chronology only,2019-03-13,1401,140,52,3,3,3,3.0
+Largest remainder,Q4 + RZZ,2019-03-14,1212,121,40,34,34,34,34.0
+Largest remainder,PCA4 RBF,2019-03-14,1212,121,40,35,35,35,35.0
+Largest remainder,Q4 no RZZ,2019-03-14,1212,121,40,34,34,34,34.0
+Largest remainder,PCA4 logistic,2019-03-14,1212,121,40,33,33,33,33.0
+Largest remainder,Chronology only,2019-03-14,1212,121,40,0,0,0,0.0
+Largest remainder,Q4 + RZZ,2019-03-15,1176,118,42,40,40,40,40.0
+Largest remainder,PCA4 RBF,2019-03-15,1176,118,42,40,40,40,40.0
+Largest remainder,Q4 no RZZ,2019-03-15,1176,118,42,40,40,40,40.0
+Largest remainder,PCA4 logistic,2019-03-15,1176,118,42,41,41,41,41.0
+Largest remainder,Chronology only,2019-03-15,1176,118,42,1,1,1,1.0
+Largest remainder,Q4 + RZZ,2019-03-16,1229,123,48,44,44,44,44.0
+Largest remainder,PCA4 RBF,2019-03-16,1229,123,48,44,44,44,44.0
+Largest remainder,Q4 no RZZ,2019-03-16,1229,123,48,44,44,44,44.0
+Largest remainder,PCA4 logistic,2019-03-16,1229,123,48,43,43,43,43.0
+Largest remainder,Chronology only,2019-03-16,1229,123,48,0,0,0,0.0
+Largest remainder,Q4 + RZZ,2019-03-17,571,57,20,20,20,20,20.0
+Largest remainder,PCA4 RBF,2019-03-17,571,57,20,20,20,20,20.0
+Largest remainder,Q4 no RZZ,2019-03-17,571,57,20,20,20,20,20.0
+Largest remainder,PCA4 logistic,2019-03-17,571,57,20,20,20,20,20.0
+Largest remainder,Chronology only,2019-03-17,571,57,20,1,1,1,1.0
+Largest remainder,Q4 + RZZ,2019-03-18,1084,108,59,39,39,39,39.0
+Largest remainder,PCA4 RBF,2019-03-18,1084,108,59,11,11,11,11.0
+Largest remainder,Q4 no RZZ,2019-03-18,1084,108,59,35,35,35,35.0
+Largest remainder,PCA4 logistic,2019-03-18,1084,108,59,39,39,39,39.0
+Largest remainder,Chronology only,2019-03-18,1084,108,59,9,9,9,9.0
+Largest remainder,Q4 + RZZ,2019-03-19,1213,121,44,26,26,26,26.0
+Largest remainder,PCA4 RBF,2019-03-19,1213,121,44,10,10,10,10.0
+Largest remainder,Q4 no RZZ,2019-03-19,1213,121,44,30,30,30,30.0
+Largest remainder,PCA4 logistic,2019-03-19,1213,121,44,33,33,33,33.0
+Largest remainder,Chronology only,2019-03-19,1213,121,44,1,1,1,1.0
+Largest remainder,Q4 + RZZ,2019-03-20,1262,126,33,29,29,29,29.0
+Largest remainder,PCA4 RBF,2019-03-20,1262,126,33,29,29,29,29.0
+Largest remainder,Q4 no RZZ,2019-03-20,1262,126,33,29,29,29,29.0
+Largest remainder,PCA4 logistic,2019-03-20,1262,126,33,28,28,28,28.0
+Largest remainder,Chronology only,2019-03-20,1262,126,33,1,1,1,1.0
+Largest remainder,Q4 + RZZ,2019-03-21,1265,127,33,26,26,26,26.0
+Largest remainder,PCA4 RBF,2019-03-21,1265,127,33,26,26,26,26.0
+Largest remainder,Q4 no RZZ,2019-03-21,1265,127,33,26,26,26,26.0
+Largest remainder,PCA4 logistic,2019-03-21,1265,127,33,29,29,29,29.0
+Largest remainder,Chronology only,2019-03-21,1265,127,33,4,4,4,4.0
+Largest remainder,Q4 + RZZ,2019-03-22,1270,127,32,23,23,23,23.0
+Largest remainder,PCA4 RBF,2019-03-22,1270,127,32,23,23,23,23.0
+Largest remainder,Q4 no RZZ,2019-03-22,1270,127,32,24,24,24,24.0
+Largest remainder,PCA4 logistic,2019-03-22,1270,127,32,27,27,27,27.0
+Largest remainder,Chronology only,2019-03-22,1270,127,32,0,0,0,0.0
+Largest remainder,Q4 + RZZ,2019-03-23,1174,117,43,30,30,30,30.0
+Largest remainder,PCA4 RBF,2019-03-23,1174,117,43,30,30,30,30.0
+Largest remainder,Q4 no RZZ,2019-03-23,1174,117,43,31,31,31,31.0
+Largest remainder,PCA4 logistic,2019-03-23,1174,117,43,33,33,33,33.0
+Largest remainder,Chronology only,2019-03-23,1174,117,43,0,0,0,0.0
+Largest remainder,Q4 + RZZ,2019-03-24,556,56,27,15,15,15,15.0
+Largest remainder,PCA4 RBF,2019-03-24,556,56,27,9,9,9,9.0
+Largest remainder,Q4 no RZZ,2019-03-24,556,56,27,16,16,16,16.0
+Largest remainder,PCA4 logistic,2019-03-24,556,56,27,25,25,25,25.0
+Largest remainder,Chronology only,2019-03-24,556,56,27,0,0,0,0.0
+Largest remainder,Q4 + RZZ,2019-03-25,1152,115,56,41,41,41,41.0
+Largest remainder,PCA4 RBF,2019-03-25,1152,115,56,23,23,23,23.0
+Largest remainder,Q4 no RZZ,2019-03-25,1152,115,56,41,41,41,41.0
+Largest remainder,PCA4 logistic,2019-03-25,1152,115,56,48,48,48,48.0
+Largest remainder,Chronology only,2019-03-25,1152,115,56,2,2,2,2.0
+Largest remainder,Q4 + RZZ,2019-03-26,695,70,27,25,25,25,25.0
+Largest remainder,PCA4 RBF,2019-03-26,695,70,27,25,25,25,25.0
+Largest remainder,Q4 no RZZ,2019-03-26,695,70,27,26,26,26,26.0
+Largest remainder,PCA4 logistic,2019-03-26,695,70,27,26,26,26,26.0
+Largest remainder,Chronology only,2019-03-26,695,70,27,1,1,1,1.0
+Largest remainder,Q4 + RZZ,2019-03-27,575,58,38,30,30,30,30.0
+Largest remainder,PCA4 RBF,2019-03-27,575,58,38,31,31,31,31.0
+Largest remainder,Q4 no RZZ,2019-03-27,575,58,38,31,31,31,31.0
+Largest remainder,PCA4 logistic,2019-03-27,575,58,38,31,31,31,31.0
+Largest remainder,Chronology only,2019-03-27,575,58,38,6,6,6,6.0
+Largest remainder,Q4 + RZZ,2019-03-28,606,61,36,34,34,34,34.0
+Largest remainder,PCA4 RBF,2019-03-28,606,61,36,34,34,34,34.0
+Largest remainder,Q4 no RZZ,2019-03-28,606,61,36,34,34,34,34.0
+Largest remainder,PCA4 logistic,2019-03-28,606,61,36,35,35,35,35.0
+Largest remainder,Chronology only,2019-03-28,606,61,36,0,0,0,0.0
+Largest remainder,Q4 + RZZ,2019-03-29,597,60,24,23,23,23,23.0
+Largest remainder,PCA4 RBF,2019-03-29,597,60,24,23,23,23,23.0
+Largest remainder,Q4 no RZZ,2019-03-29,597,60,24,23,23,23,23.0
+Largest remainder,PCA4 logistic,2019-03-29,597,60,24,23,23,23,23.0
+Largest remainder,Chronology only,2019-03-29,597,60,24,1,1,1,1.0
+Largest remainder,Q4 + RZZ,2019-03-30,193,19,2,2,2,2,2.0
+Largest remainder,PCA4 RBF,2019-03-30,193,19,2,2,2,2,2.0
+Largest remainder,Q4 no RZZ,2019-03-30,193,19,2,2,2,2,2.0
+Largest remainder,PCA4 logistic,2019-03-30,193,19,2,2,2,2,2.0
+Largest remainder,Chronology only,2019-03-30,193,19,2,0,0,0,0.0
+Largest remainder,Q4 + RZZ,2019-03-31,75,7,18,7,7,7,7.0
+Largest remainder,PCA4 RBF,2019-03-31,75,7,18,3,3,3,3.0
+Largest remainder,Q4 no RZZ,2019-03-31,75,7,18,7,7,7,7.0
+Largest remainder,PCA4 logistic,2019-03-31,75,7,18,7,7,7,7.0
+Largest remainder,Chronology only,2019-03-31,75,7,18,5,5,5,5.0
+Cumulative volume,Q4 + RZZ,2019-03-13,1401,141,52,28,28,28,28.0
+Cumulative volume,PCA4 RBF,2019-03-13,1401,141,52,14,14,14,14.0
+Cumulative volume,Q4 no RZZ,2019-03-13,1401,141,52,30,30,30,30.0
+Cumulative volume,PCA4 logistic,2019-03-13,1401,141,52,33,33,33,33.0
+Cumulative volume,Chronology only,2019-03-13,1401,141,52,3,3,3,3.0
+Cumulative volume,Q4 + RZZ,2019-03-14,1212,121,40,34,34,34,34.0
+Cumulative volume,PCA4 RBF,2019-03-14,1212,121,40,35,35,35,35.0
+Cumulative volume,Q4 no RZZ,2019-03-14,1212,121,40,34,34,34,34.0
+Cumulative volume,PCA4 logistic,2019-03-14,1212,121,40,33,33,33,33.0
+Cumulative volume,Chronology only,2019-03-14,1212,121,40,0,0,0,0.0
+Cumulative volume,Q4 + RZZ,2019-03-15,1176,117,42,40,40,40,40.0
+Cumulative volume,PCA4 RBF,2019-03-15,1176,117,42,40,40,40,40.0
+Cumulative volume,Q4 no RZZ,2019-03-15,1176,117,42,40,40,40,40.0
+Cumulative volume,PCA4 logistic,2019-03-15,1176,117,42,41,41,41,41.0
+Cumulative volume,Chronology only,2019-03-15,1176,117,42,1,1,1,1.0
+Cumulative volume,Q4 + RZZ,2019-03-16,1229,123,48,44,44,44,44.0
+Cumulative volume,PCA4 RBF,2019-03-16,1229,123,48,44,44,44,44.0
+Cumulative volume,Q4 no RZZ,2019-03-16,1229,123,48,44,44,44,44.0
+Cumulative volume,PCA4 logistic,2019-03-16,1229,123,48,43,43,43,43.0
+Cumulative volume,Chronology only,2019-03-16,1229,123,48,0,0,0,0.0
+Cumulative volume,Q4 + RZZ,2019-03-17,571,57,20,20,20,20,20.0
+Cumulative volume,PCA4 RBF,2019-03-17,571,57,20,20,20,20,20.0
+Cumulative volume,Q4 no RZZ,2019-03-17,571,57,20,20,20,20,20.0
+Cumulative volume,PCA4 logistic,2019-03-17,571,57,20,20,20,20,20.0
+Cumulative volume,Chronology only,2019-03-17,571,57,20,1,1,1,1.0
+Cumulative volume,Q4 + RZZ,2019-03-18,1084,109,59,39,39,39,39.0
+Cumulative volume,PCA4 RBF,2019-03-18,1084,109,59,11,11,11,11.0
+Cumulative volume,Q4 no RZZ,2019-03-18,1084,109,59,35,35,35,35.0
+Cumulative volume,PCA4 logistic,2019-03-18,1084,109,59,39,39,39,39.0
+Cumulative volume,Chronology only,2019-03-18,1084,109,59,9,9,9,9.0
+Cumulative volume,Q4 + RZZ,2019-03-19,1213,121,44,26,26,26,26.0
+Cumulative volume,PCA4 RBF,2019-03-19,1213,121,44,10,10,10,10.0
+Cumulative volume,Q4 no RZZ,2019-03-19,1213,121,44,30,30,30,30.0
+Cumulative volume,PCA4 logistic,2019-03-19,1213,121,44,33,33,33,33.0
+Cumulative volume,Chronology only,2019-03-19,1213,121,44,1,1,1,1.0
+Cumulative volume,Q4 + RZZ,2019-03-20,1262,126,33,29,29,29,29.0
+Cumulative volume,PCA4 RBF,2019-03-20,1262,126,33,29,29,29,29.0
+Cumulative volume,Q4 no RZZ,2019-03-20,1262,126,33,29,29,29,29.0
+Cumulative volume,PCA4 logistic,2019-03-20,1262,126,33,28,28,28,28.0
+Cumulative volume,Chronology only,2019-03-20,1262,126,33,1,1,1,1.0
+Cumulative volume,Q4 + RZZ,2019-03-21,1265,127,33,26,26,26,26.0
+Cumulative volume,PCA4 RBF,2019-03-21,1265,127,33,26,26,26,26.0
+Cumulative volume,Q4 no RZZ,2019-03-21,1265,127,33,26,26,26,26.0
+Cumulative volume,PCA4 logistic,2019-03-21,1265,127,33,29,29,29,29.0
+Cumulative volume,Chronology only,2019-03-21,1265,127,33,4,4,4,4.0
+Cumulative volume,Q4 + RZZ,2019-03-22,1270,127,32,23,23,23,23.0
+Cumulative volume,PCA4 RBF,2019-03-22,1270,127,32,23,23,23,23.0
+Cumulative volume,Q4 no RZZ,2019-03-22,1270,127,32,24,24,24,24.0
+Cumulative volume,PCA4 logistic,2019-03-22,1270,127,32,27,27,27,27.0
+Cumulative volume,Chronology only,2019-03-22,1270,127,32,0,0,0,0.0
+Cumulative volume,Q4 + RZZ,2019-03-23,1174,117,43,30,30,30,30.0
+Cumulative volume,PCA4 RBF,2019-03-23,1174,117,43,30,30,30,30.0
+Cumulative volume,Q4 no RZZ,2019-03-23,1174,117,43,31,31,31,31.0
+Cumulative volume,PCA4 logistic,2019-03-23,1174,117,43,33,33,33,33.0
+Cumulative volume,Chronology only,2019-03-23,1174,117,43,0,0,0,0.0
+Cumulative volume,Q4 + RZZ,2019-03-24,556,56,27,15,15,15,15.0
+Cumulative volume,PCA4 RBF,2019-03-24,556,56,27,9,9,9,9.0
+Cumulative volume,Q4 no RZZ,2019-03-24,556,56,27,16,16,16,16.0
+Cumulative volume,PCA4 logistic,2019-03-24,556,56,27,25,25,25,25.0
+Cumulative volume,Chronology only,2019-03-24,556,56,27,0,0,0,0.0
+Cumulative volume,Q4 + RZZ,2019-03-25,1152,115,56,41,41,41,41.0
+Cumulative volume,PCA4 RBF,2019-03-25,1152,115,56,23,23,23,23.0
+Cumulative volume,Q4 no RZZ,2019-03-25,1152,115,56,41,41,41,41.0
+Cumulative volume,PCA4 logistic,2019-03-25,1152,115,56,48,48,48,48.0
+Cumulative volume,Chronology only,2019-03-25,1152,115,56,2,2,2,2.0
+Cumulative volume,Q4 + RZZ,2019-03-26,695,69,27,25,25,25,25.0
+Cumulative volume,PCA4 RBF,2019-03-26,695,69,27,25,25,25,25.0
+Cumulative volume,Q4 no RZZ,2019-03-26,695,69,27,26,26,26,26.0
+Cumulative volume,PCA4 logistic,2019-03-26,695,69,27,26,26,26,26.0
+Cumulative volume,Chronology only,2019-03-26,695,69,27,1,1,1,1.0
+Cumulative volume,Q4 + RZZ,2019-03-27,575,58,38,30,30,30,30.0
+Cumulative volume,PCA4 RBF,2019-03-27,575,58,38,31,31,31,31.0
+Cumulative volume,Q4 no RZZ,2019-03-27,575,58,38,31,31,31,31.0
+Cumulative volume,PCA4 logistic,2019-03-27,575,58,38,31,31,31,31.0
+Cumulative volume,Chronology only,2019-03-27,575,58,38,6,6,6,6.0
+Cumulative volume,Q4 + RZZ,2019-03-28,606,61,36,34,34,34,34.0
+Cumulative volume,PCA4 RBF,2019-03-28,606,61,36,34,34,34,34.0
+Cumulative volume,Q4 no RZZ,2019-03-28,606,61,36,34,34,34,34.0
+Cumulative volume,PCA4 logistic,2019-03-28,606,61,36,35,35,35,35.0
+Cumulative volume,Chronology only,2019-03-28,606,61,36,0,0,0,0.0
+Cumulative volume,Q4 + RZZ,2019-03-29,597,59,24,23,23,23,23.0
+Cumulative volume,PCA4 RBF,2019-03-29,597,59,24,23,23,23,23.0
+Cumulative volume,Q4 no RZZ,2019-03-29,597,59,24,23,23,23,23.0
+Cumulative volume,PCA4 logistic,2019-03-29,597,59,24,23,23,23,23.0
+Cumulative volume,Chronology only,2019-03-29,597,59,24,1,1,1,1.0
+Cumulative volume,Q4 + RZZ,2019-03-30,193,20,2,2,2,2,2.0
+Cumulative volume,PCA4 RBF,2019-03-30,193,20,2,2,2,2,2.0
+Cumulative volume,Q4 no RZZ,2019-03-30,193,20,2,2,2,2,2.0
+Cumulative volume,PCA4 logistic,2019-03-30,193,20,2,2,2,2,2.0
+Cumulative volume,Chronology only,2019-03-30,193,20,2,0,0,0,0.0
+Cumulative volume,Q4 + RZZ,2019-03-31,75,7,18,7,7,7,7.0
+Cumulative volume,PCA4 RBF,2019-03-31,75,7,18,3,3,3,3.0
+Cumulative volume,Q4 no RZZ,2019-03-31,75,7,18,7,7,7,7.0
+Cumulative volume,PCA4 logistic,2019-03-31,75,7,18,7,7,7,7.0
+Cumulative volume,Chronology only,2019-03-31,75,7,18,5,5,5,5.0
