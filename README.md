@@ -1,4 +1,10 @@
-# Quantum and Classical Kernels for Defect Retrieval Under Daily Inspection Quotas
+# Pair Rotations in Quantum Kernels for Manufacturing Inspection Under Daily Quotas
+
+The [reproducibility supplement for the revised paper](QML_RZZ_Reproducibility_Supplement.zip) contains the chronological validation grids and model selections, fixed-scale comparisons, full-history tree baselines, daily retrieval counts, and checks against the official ProBayes Parquet files. Open the README inside the archive for commands and a guide to the result tables.
+
+The two casting windows are retrospective. With shared training-selected circuit settings the changes in all-shot detections from adding the gates were -4 and -2 under the original 12-candidate search, and 0 and +2 under the expanded 18-candidate search.
+
+## Original benchmark
 
 Research code and aggregate results for the manuscript by **Hyerim Choi** and **Tae-Kook Kim** (corresponding author), Pukyong National University.
 
@@ -61,7 +67,7 @@ The repository distributes experiment code, fixed analysis specifications and ag
 | SECOM | McCann and Johnston, UCI, 2008. Download the two files `secom.data` and `secom_labels.data` from the [official dataset](https://doi.org/10.24432/C54305). |
 | KAMP injection molding | Ministry of SMEs and Startups, Republic of Korea, 2020. See the [official catalog](https://www.kamp-ai.kr/aidataDetail?AI_SEARCH=&DATASET_SEQ=4&EQUIP_SEL=&FILE_TYPE_SEL=&GUBUN_SEL=&WDATE_SEL=&page=1) and the [labeled CSV mirror](https://github.com/sanngrok/molding-defect-prediction). The loader reads `labeled_data.csv` or downloads Git blob `91c63810c331a88c73e4ecd491429f35e1635199`. |
 | ProBayes, first campaign | Lambers, Schüder and Krauß, [official v2 record](https://doi.org/10.23728/b2share.4c5692b886db419180f716acf895bf06). The analyzed input was this [CSV conversion](https://github.com/ar363/plastic-injection-moulding-quality-detection/blob/8741433081eeff1d628d749861aedaacb2a6fa6e/data/dataset.csv). Save it as `probayes.csv`. |
-| ProBayes, November 2022 campaign | Lambers and colleagues, [official v1 record](https://doi.org/10.23728/b2share.3f80952ce5ff4be88ae4cf6a3bdfe732). The default analysis uses this [separate CSV conversion](https://github.com/rajrejin/Injection-Molding-Causal-Inference/blob/115bf535e3ae84ab7374b330108419a5c6a9414b/Data/Dataset.csv), named `probayes_nov2022_mirror.csv` locally. The notebook can also read the original Parquet with the optional package `pyarrow==23.0.1`. Row-by-row agreement of the two campaigns' analyzed CSVs with their original Parquet files has not been established. |
+| ProBayes, November 2022 campaign | Lambers and colleagues, [official v1 record](https://doi.org/10.23728/b2share.3f80952ce5ff4be88ae4cf6a3bdfe732). The default analysis uses this [separate CSV conversion](https://github.com/rajrejin/Injection-Molding-Causal-Inference/blob/115bf535e3ae84ab7374b330108419a5c6a9414b/Data/Dataset.csv), named `probayes_nov2022_mirror.csv` locally. The notebook can also read the original Parquet with the optional package `pyarrow==23.0.1`. The revised supplement verifies all eight model sensor values and the defect label for all 867 cycles across both source records. |
 | Metal die casting | The initial [competition-training file](https://github.com/yeonduhaeyo/diecasting-project/blob/3010621441321d2d51f8043d0edc4ac6440cd80f/data/train.csv) has 73,612 rows. The [fuller competition mirror](https://github.com/greatsangho/2024-Kamp-Competition/tree/ad2b1147ea73fcdd54fed0507ed2f73da3c652b9/data) has 92,015. Exact repository paths, commits, encodings, blob IDs and SHA-256 digests are in [source_prefix_summary.json](external/evidence/source_prefix_summary.json). |
 
 The main notebook verifies four SHA-256 digests for the original three cohorts and a separate Git blob ID and SHA-256 for the November CSV. The die-casting code accepts `--data` and, for the follow-on, `--full-data` to specify local inputs. The notebooks expose equivalent settings in their first code cells.
