@@ -1,0 +1,163 @@
+dataset,percent,policy,group,method,units,slots,defects,hits,tie_expected,tie_min,tie_max,at_cutoff,slots_in_boundary
+SECOM,5,pooled,all dates,Full Extra Trees,359,18,22,0,0.0,0,0,1,1
+SECOM,5,pooled,all dates,PCA4 Extra Trees,359,18,22,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-01,Full Extra Trees,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,Full Extra Trees,35,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-03,Full Extra Trees,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,Full Extra Trees,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,Full Extra Trees,32,2,6,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-06,Full Extra Trees,48,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-07,Full Extra Trees,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,Full Extra Trees,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,Full Extra Trees,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,Full Extra Trees,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,Full Extra Trees,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,Full Extra Trees,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,Full Extra Trees,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,Full Extra Trees,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,Full Extra Trees,34,2,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-16,Full Extra Trees,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,Full Extra Trees,3,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-01,PCA4 Extra Trees,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,PCA4 Extra Trees,35,2,5,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-03,PCA4 Extra Trees,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,PCA4 Extra Trees,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,PCA4 Extra Trees,32,2,6,0,0.0,0,0,2,2
+SECOM,5,daily,2008-10-06,PCA4 Extra Trees,48,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-07,PCA4 Extra Trees,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,PCA4 Extra Trees,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,PCA4 Extra Trees,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,PCA4 Extra Trees,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,PCA4 Extra Trees,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,PCA4 Extra Trees,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,PCA4 Extra Trees,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,PCA4 Extra Trees,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,PCA4 Extra Trees,34,2,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-16,PCA4 Extra Trees,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,PCA4 Extra Trees,3,0,0,0,0.0,0,0,0,0
+SECOM,10,pooled,all dates,Full Extra Trees,359,36,22,3,3.0,3,3,1,1
+SECOM,10,pooled,all dates,PCA4 Extra Trees,359,36,22,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-01,Full Extra Trees,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,Full Extra Trees,35,3,5,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-03,Full Extra Trees,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,Full Extra Trees,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,Full Extra Trees,32,3,6,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-06,Full Extra Trees,48,5,5,2,2.0,2,2,1,1
+SECOM,10,daily,2008-10-07,Full Extra Trees,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,Full Extra Trees,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,Full Extra Trees,8,1,2,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-10,Full Extra Trees,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,Full Extra Trees,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,Full Extra Trees,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,Full Extra Trees,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,Full Extra Trees,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,Full Extra Trees,34,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-16,Full Extra Trees,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,Full Extra Trees,3,0,0,0,0.0,0,0,0,0
+SECOM,10,daily,2008-10-01,PCA4 Extra Trees,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,PCA4 Extra Trees,35,3,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-03,PCA4 Extra Trees,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,PCA4 Extra Trees,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,PCA4 Extra Trees,32,3,6,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-06,PCA4 Extra Trees,48,5,5,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-07,PCA4 Extra Trees,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,PCA4 Extra Trees,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,PCA4 Extra Trees,8,1,2,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-10,PCA4 Extra Trees,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,PCA4 Extra Trees,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,PCA4 Extra Trees,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,PCA4 Extra Trees,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,PCA4 Extra Trees,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,PCA4 Extra Trees,34,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-16,PCA4 Extra Trees,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,PCA4 Extra Trees,3,0,0,0,0.0,0,0,0,0
+SECOM,20,pooled,all dates,Full Extra Trees,359,72,22,5,5.0,5,5,1,1
+SECOM,20,pooled,all dates,PCA4 Extra Trees,359,72,22,2,2.0,2,2,1,1
+SECOM,20,daily,2008-10-01,Full Extra Trees,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,Full Extra Trees,35,7,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-03,Full Extra Trees,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,Full Extra Trees,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,Full Extra Trees,32,6,6,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-06,Full Extra Trees,48,10,5,3,3.0,3,3,1,1
+SECOM,20,daily,2008-10-07,Full Extra Trees,28,6,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-08,Full Extra Trees,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,Full Extra Trees,8,2,2,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-10,Full Extra Trees,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,Full Extra Trees,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,Full Extra Trees,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,Full Extra Trees,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,Full Extra Trees,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,Full Extra Trees,34,7,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-16,Full Extra Trees,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,Full Extra Trees,3,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-01,PCA4 Extra Trees,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,PCA4 Extra Trees,35,7,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-03,PCA4 Extra Trees,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,PCA4 Extra Trees,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,PCA4 Extra Trees,32,6,6,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-06,PCA4 Extra Trees,48,10,5,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-07,PCA4 Extra Trees,28,6,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-08,PCA4 Extra Trees,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,PCA4 Extra Trees,8,2,2,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-10,PCA4 Extra Trees,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,PCA4 Extra Trees,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,PCA4 Extra Trees,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,PCA4 Extra Trees,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,PCA4 Extra Trees,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,PCA4 Extra Trees,34,7,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-16,PCA4 Extra Trees,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,PCA4 Extra Trees,3,1,0,0,0.0,0,0,1,1
+KAMP,5,pooled,all dates,Full Extra Trees,883,45,8,7,7.0,7,7,1,1
+KAMP,5,pooled,all dates,PCA4 Extra Trees,883,45,8,7,7.0,7,7,1,1
+KAMP,5,daily,2020-10-30,Full Extra Trees,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,Full Extra Trees,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,Full Extra Trees,36,2,7,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-05,Full Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,Full Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-10-30,PCA4 Extra Trees,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,PCA4 Extra Trees,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,PCA4 Extra Trees,36,2,7,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-05,PCA4 Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,PCA4 Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,10,pooled,all dates,Full Extra Trees,883,89,8,7,7.0,7,7,1,1
+KAMP,10,pooled,all dates,PCA4 Extra Trees,883,89,8,7,7.0,7,7,1,1
+KAMP,10,daily,2020-10-30,Full Extra Trees,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,Full Extra Trees,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,Full Extra Trees,36,4,7,1,1.0,1,1,1,1
+KAMP,10,daily,2020-11-05,Full Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,Full Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-10-30,PCA4 Extra Trees,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,PCA4 Extra Trees,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,PCA4 Extra Trees,36,4,7,1,1.0,1,1,1,1
+KAMP,10,daily,2020-11-05,PCA4 Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,PCA4 Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,20,pooled,all dates,Full Extra Trees,883,177,8,7,7.0,7,7,1,1
+KAMP,20,pooled,all dates,PCA4 Extra Trees,883,177,8,7,7.0,7,7,1,1
+KAMP,20,daily,2020-10-30,Full Extra Trees,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,Full Extra Trees,463,93,1,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-04,Full Extra Trees,36,7,7,2,2.0,2,2,1,1
+KAMP,20,daily,2020-11-05,Full Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,Full Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-10-30,PCA4 Extra Trees,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,PCA4 Extra Trees,463,93,1,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-04,PCA4 Extra Trees,36,7,7,2,2.0,2,2,1,1
+KAMP,20,daily,2020-11-05,PCA4 Extra Trees,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,PCA4 Extra Trees,1,0,0,0,0.0,0,0,0,0
+ProBayes,5,pooled,all dates,Full Extra Trees,360,18,60,6,6.0,6,6,1,1
+ProBayes,5,pooled,all dates,PCA4 Extra Trees,360,18,60,0,0.0,0,0,5,5
+ProBayes,5,daily,2021-12-15,Full Extra Trees,204,10,48,0,0.0,0,0,1,1
+ProBayes,5,daily,2022-03-17,Full Extra Trees,156,8,12,0,0.0,0,0,1,1
+ProBayes,5,daily,2021-12-15,PCA4 Extra Trees,204,10,48,0,0.0,0,0,5,4
+ProBayes,5,daily,2022-03-17,PCA4 Extra Trees,156,8,12,0,0.0,0,0,1,1
+ProBayes,10,pooled,all dates,Full Extra Trees,360,36,60,13,13.0,13,13,1,1
+ProBayes,10,pooled,all dates,PCA4 Extra Trees,360,36,60,12,12.0,12,12,2,2
+ProBayes,10,daily,2021-12-15,Full Extra Trees,204,20,48,8,8.0,8,8,2,1
+ProBayes,10,daily,2022-03-17,Full Extra Trees,156,16,12,0,0.0,0,0,8,4
+ProBayes,10,daily,2021-12-15,PCA4 Extra Trees,204,20,48,0,0.0,0,0,3,2
+ProBayes,10,daily,2022-03-17,PCA4 Extra Trees,156,16,12,0,0.0,0,0,3,2
+ProBayes,20,pooled,all dates,Full Extra Trees,360,72,60,25,25.0,25,25,2,1
+ProBayes,20,pooled,all dates,PCA4 Extra Trees,360,72,60,24,24.0,24,24,1,1
+ProBayes,20,daily,2021-12-15,Full Extra Trees,204,41,48,17,17.0,17,17,1,1
+ProBayes,20,daily,2022-03-17,Full Extra Trees,156,31,12,0,0.0,0,0,1,1
+ProBayes,20,daily,2021-12-15,PCA4 Extra Trees,204,41,48,14,14.0,14,14,3,2
+ProBayes,20,daily,2022-03-17,PCA4 Extra Trees,156,31,12,7,0.84,0,7,100,7

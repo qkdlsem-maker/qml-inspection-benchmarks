@@ -1,0 +1,505 @@
+dataset,percent,policy,group,method,units,slots,defects,hits,tie_expected,tie_min,tie_max,at_cutoff,slots_in_boundary
+SECOM,5,pooled,all dates,Full RBF,359,18,22,2,2.0,2,2,1,1
+SECOM,5,pooled,all dates,PCA4 RBF,359,18,22,0,0.0,0,0,1,1
+SECOM,5,pooled,all dates,Q4 + RZZ,359,18,22,2,2.0,2,2,1,1
+SECOM,5,pooled,all dates,Q4 no RZZ,359,18,22,2,2.0,2,2,1,1
+SECOM,5,pooled,all dates,PCA4 logistic,359,18,22,1,1.0,1,1,1,1
+SECOM,5,pooled,all dates,Chronology only,359,18,22,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-01,Full RBF,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,Full RBF,35,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-03,Full RBF,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,Full RBF,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,Full RBF,32,2,6,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-06,Full RBF,48,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-07,Full RBF,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,Full RBF,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,Full RBF,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,Full RBF,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,Full RBF,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,Full RBF,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,Full RBF,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,Full RBF,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,Full RBF,34,2,1,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-16,Full RBF,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,Full RBF,3,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-01,PCA4 RBF,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,PCA4 RBF,35,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-03,PCA4 RBF,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,PCA4 RBF,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,PCA4 RBF,32,2,6,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-06,PCA4 RBF,48,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-07,PCA4 RBF,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,PCA4 RBF,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,PCA4 RBF,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,PCA4 RBF,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,PCA4 RBF,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,PCA4 RBF,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,PCA4 RBF,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,PCA4 RBF,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,PCA4 RBF,34,2,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-16,PCA4 RBF,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,PCA4 RBF,3,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-01,Q4 + RZZ,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,Q4 + RZZ,35,2,5,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-03,Q4 + RZZ,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,Q4 + RZZ,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,Q4 + RZZ,32,2,6,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-06,Q4 + RZZ,48,2,5,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-07,Q4 + RZZ,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,Q4 + RZZ,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,Q4 + RZZ,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,Q4 + RZZ,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,Q4 + RZZ,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,Q4 + RZZ,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,Q4 + RZZ,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,Q4 + RZZ,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,Q4 + RZZ,34,2,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-16,Q4 + RZZ,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,Q4 + RZZ,3,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-01,Q4 no RZZ,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,Q4 no RZZ,35,2,5,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-03,Q4 no RZZ,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,Q4 no RZZ,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,Q4 no RZZ,32,2,6,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-06,Q4 no RZZ,48,2,5,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-07,Q4 no RZZ,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,Q4 no RZZ,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,Q4 no RZZ,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,Q4 no RZZ,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,Q4 no RZZ,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,Q4 no RZZ,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,Q4 no RZZ,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,Q4 no RZZ,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,Q4 no RZZ,34,2,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-16,Q4 no RZZ,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,Q4 no RZZ,3,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-01,PCA4 logistic,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,PCA4 logistic,35,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-03,PCA4 logistic,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,PCA4 logistic,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,PCA4 logistic,32,2,6,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-06,PCA4 logistic,48,2,5,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-07,PCA4 logistic,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,PCA4 logistic,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,PCA4 logistic,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,PCA4 logistic,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,PCA4 logistic,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,PCA4 logistic,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,PCA4 logistic,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,PCA4 logistic,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,PCA4 logistic,34,2,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-16,PCA4 logistic,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,PCA4 logistic,3,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-01,Chronology only,17,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-02,Chronology only,35,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-03,Chronology only,25,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-04,Chronology only,18,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-05,Chronology only,32,2,6,1,1.0,1,1,1,1
+SECOM,5,daily,2008-10-06,Chronology only,48,2,5,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-07,Chronology only,28,1,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-08,Chronology only,26,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-09,Chronology only,8,0,2,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-10,Chronology only,10,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-11,Chronology only,11,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-12,Chronology only,7,0,0,0,0.0,0,0,0,0
+SECOM,5,daily,2008-10-13,Chronology only,22,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-14,Chronology only,16,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-15,Chronology only,34,2,1,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-16,Chronology only,19,1,0,0,0.0,0,0,1,1
+SECOM,5,daily,2008-10-17,Chronology only,3,0,0,0,0.0,0,0,0,0
+SECOM,10,pooled,all dates,Full RBF,359,36,22,3,3.0,3,3,1,1
+SECOM,10,pooled,all dates,PCA4 RBF,359,36,22,1,1.0,1,1,1,1
+SECOM,10,pooled,all dates,Q4 + RZZ,359,36,22,3,3.0,3,3,1,1
+SECOM,10,pooled,all dates,Q4 no RZZ,359,36,22,2,2.0,2,2,1,1
+SECOM,10,pooled,all dates,PCA4 logistic,359,36,22,3,3.0,3,3,1,1
+SECOM,10,pooled,all dates,Chronology only,359,36,22,5,5.0,5,5,1,1
+SECOM,10,daily,2008-10-01,Full RBF,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,Full RBF,35,3,5,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-03,Full RBF,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,Full RBF,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,Full RBF,32,3,6,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-06,Full RBF,48,5,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-07,Full RBF,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,Full RBF,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,Full RBF,8,1,2,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-10,Full RBF,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,Full RBF,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,Full RBF,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,Full RBF,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,Full RBF,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,Full RBF,34,3,1,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-16,Full RBF,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,Full RBF,3,0,0,0,0.0,0,0,0,0
+SECOM,10,daily,2008-10-01,PCA4 RBF,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,PCA4 RBF,35,3,5,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-03,PCA4 RBF,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,PCA4 RBF,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,PCA4 RBF,32,3,6,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-06,PCA4 RBF,48,5,5,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-07,PCA4 RBF,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,PCA4 RBF,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,PCA4 RBF,8,1,2,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-10,PCA4 RBF,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,PCA4 RBF,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,PCA4 RBF,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,PCA4 RBF,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,PCA4 RBF,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,PCA4 RBF,34,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-16,PCA4 RBF,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,PCA4 RBF,3,0,0,0,0.0,0,0,0,0
+SECOM,10,daily,2008-10-01,Q4 + RZZ,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,Q4 + RZZ,35,3,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-03,Q4 + RZZ,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,Q4 + RZZ,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,Q4 + RZZ,32,3,6,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-06,Q4 + RZZ,48,5,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-07,Q4 + RZZ,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,Q4 + RZZ,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,Q4 + RZZ,8,1,2,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-10,Q4 + RZZ,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,Q4 + RZZ,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,Q4 + RZZ,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,Q4 + RZZ,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,Q4 + RZZ,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,Q4 + RZZ,34,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-16,Q4 + RZZ,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,Q4 + RZZ,3,0,0,0,0.0,0,0,0,0
+SECOM,10,daily,2008-10-01,Q4 no RZZ,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,Q4 no RZZ,35,3,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-03,Q4 no RZZ,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,Q4 no RZZ,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,Q4 no RZZ,32,3,6,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-06,Q4 no RZZ,48,5,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-07,Q4 no RZZ,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,Q4 no RZZ,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,Q4 no RZZ,8,1,2,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-10,Q4 no RZZ,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,Q4 no RZZ,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,Q4 no RZZ,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,Q4 no RZZ,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,Q4 no RZZ,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,Q4 no RZZ,34,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-16,Q4 no RZZ,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,Q4 no RZZ,3,0,0,0,0.0,0,0,0,0
+SECOM,10,daily,2008-10-01,PCA4 logistic,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,PCA4 logistic,35,3,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-03,PCA4 logistic,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,PCA4 logistic,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,PCA4 logistic,32,3,6,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-06,PCA4 logistic,48,5,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-07,PCA4 logistic,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,PCA4 logistic,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,PCA4 logistic,8,1,2,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-10,PCA4 logistic,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,PCA4 logistic,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,PCA4 logistic,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,PCA4 logistic,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,PCA4 logistic,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,PCA4 logistic,34,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-16,PCA4 logistic,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,PCA4 logistic,3,0,0,0,0.0,0,0,0,0
+SECOM,10,daily,2008-10-01,Chronology only,17,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-02,Chronology only,35,3,5,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-03,Chronology only,25,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-04,Chronology only,18,2,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-05,Chronology only,32,3,6,1,1.0,1,1,1,1
+SECOM,10,daily,2008-10-06,Chronology only,48,5,5,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-07,Chronology only,28,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-08,Chronology only,26,3,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-09,Chronology only,8,1,2,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-10,Chronology only,10,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-11,Chronology only,11,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-12,Chronology only,7,1,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-13,Chronology only,22,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-14,Chronology only,16,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-15,Chronology only,34,3,1,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-16,Chronology only,19,2,0,0,0.0,0,0,1,1
+SECOM,10,daily,2008-10-17,Chronology only,3,0,0,0,0.0,0,0,0,0
+SECOM,20,pooled,all dates,Full RBF,359,72,22,8,8.0,8,8,1,1
+SECOM,20,pooled,all dates,PCA4 RBF,359,72,22,4,4.0,4,4,1,1
+SECOM,20,pooled,all dates,Q4 + RZZ,359,72,22,6,6.0,6,6,1,1
+SECOM,20,pooled,all dates,Q4 no RZZ,359,72,22,5,5.0,5,5,1,1
+SECOM,20,pooled,all dates,PCA4 logistic,359,72,22,6,6.0,6,6,1,1
+SECOM,20,pooled,all dates,Chronology only,359,72,22,6,6.0,6,6,1,1
+SECOM,20,daily,2008-10-01,Full RBF,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,Full RBF,35,7,5,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-03,Full RBF,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,Full RBF,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,Full RBF,32,6,6,2,2.0,2,2,1,1
+SECOM,20,daily,2008-10-06,Full RBF,48,10,5,2,2.0,2,2,1,1
+SECOM,20,daily,2008-10-07,Full RBF,28,6,1,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-08,Full RBF,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,Full RBF,8,2,2,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-10,Full RBF,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,Full RBF,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,Full RBF,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,Full RBF,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,Full RBF,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,Full RBF,34,7,1,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-16,Full RBF,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,Full RBF,3,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-01,PCA4 RBF,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,PCA4 RBF,35,7,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-03,PCA4 RBF,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,PCA4 RBF,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,PCA4 RBF,32,6,6,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-06,PCA4 RBF,48,10,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-07,PCA4 RBF,28,6,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-08,PCA4 RBF,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,PCA4 RBF,8,2,2,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-10,PCA4 RBF,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,PCA4 RBF,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,PCA4 RBF,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,PCA4 RBF,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,PCA4 RBF,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,PCA4 RBF,34,7,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-16,PCA4 RBF,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,PCA4 RBF,3,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-01,Q4 + RZZ,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,Q4 + RZZ,35,7,5,2,2.0,2,2,1,1
+SECOM,20,daily,2008-10-03,Q4 + RZZ,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,Q4 + RZZ,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,Q4 + RZZ,32,6,6,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-06,Q4 + RZZ,48,10,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-07,Q4 + RZZ,28,6,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-08,Q4 + RZZ,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,Q4 + RZZ,8,2,2,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-10,Q4 + RZZ,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,Q4 + RZZ,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,Q4 + RZZ,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,Q4 + RZZ,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,Q4 + RZZ,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,Q4 + RZZ,34,7,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-16,Q4 + RZZ,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,Q4 + RZZ,3,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-01,Q4 no RZZ,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,Q4 no RZZ,35,7,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-03,Q4 no RZZ,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,Q4 no RZZ,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,Q4 no RZZ,32,6,6,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-06,Q4 no RZZ,48,10,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-07,Q4 no RZZ,28,6,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-08,Q4 no RZZ,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,Q4 no RZZ,8,2,2,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-10,Q4 no RZZ,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,Q4 no RZZ,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,Q4 no RZZ,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,Q4 no RZZ,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,Q4 no RZZ,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,Q4 no RZZ,34,7,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-16,Q4 no RZZ,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,Q4 no RZZ,3,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-01,PCA4 logistic,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,PCA4 logistic,35,7,5,2,2.0,2,2,1,1
+SECOM,20,daily,2008-10-03,PCA4 logistic,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,PCA4 logistic,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,PCA4 logistic,32,6,6,2,2.0,2,2,1,1
+SECOM,20,daily,2008-10-06,PCA4 logistic,48,10,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-07,PCA4 logistic,28,6,1,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-08,PCA4 logistic,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,PCA4 logistic,8,2,2,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-10,PCA4 logistic,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,PCA4 logistic,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,PCA4 logistic,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,PCA4 logistic,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,PCA4 logistic,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,PCA4 logistic,34,7,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-16,PCA4 logistic,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,PCA4 logistic,3,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-01,Chronology only,17,3,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-02,Chronology only,35,7,5,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-03,Chronology only,25,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-04,Chronology only,18,4,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-05,Chronology only,32,6,6,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-06,Chronology only,48,10,5,2,2.0,2,2,1,1
+SECOM,20,daily,2008-10-07,Chronology only,28,6,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-08,Chronology only,26,5,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-09,Chronology only,8,2,2,1,1.0,1,1,1,1
+SECOM,20,daily,2008-10-10,Chronology only,10,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-11,Chronology only,11,2,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-12,Chronology only,7,1,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-13,Chronology only,22,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-14,Chronology only,16,3,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-15,Chronology only,34,7,1,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-16,Chronology only,19,4,0,0,0.0,0,0,1,1
+SECOM,20,daily,2008-10-17,Chronology only,3,1,0,0,0.0,0,0,1,1
+KAMP,5,pooled,all dates,Full RBF,883,45,8,7,7.0,7,7,1,1
+KAMP,5,pooled,all dates,PCA4 RBF,883,45,8,7,7.0,7,7,1,1
+KAMP,5,pooled,all dates,Q4 + RZZ,883,45,8,7,7.0,7,7,1,1
+KAMP,5,pooled,all dates,Q4 no RZZ,883,45,8,7,7.0,7,7,1,1
+KAMP,5,pooled,all dates,PCA4 logistic,883,45,8,7,7.0,7,7,1,1
+KAMP,5,pooled,all dates,Chronology only,883,45,8,0,0.0,0,0,1,1
+KAMP,5,pooled,all dates,Family only,883,45,8,7,7.008284023668639,7,8,845,7
+KAMP,5,daily,2020-10-30,Full RBF,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,Full RBF,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,Full RBF,36,2,7,1,1.0,1,1,1,1
+KAMP,5,daily,2020-11-05,Full RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,Full RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-10-30,PCA4 RBF,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,PCA4 RBF,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,PCA4 RBF,36,2,7,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-05,PCA4 RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,PCA4 RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-10-30,Q4 + RZZ,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,Q4 + RZZ,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,Q4 + RZZ,36,2,7,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-05,Q4 + RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,Q4 + RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-10-30,Q4 no RZZ,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,Q4 no RZZ,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,Q4 no RZZ,36,2,7,1,1.0,1,1,1,1
+KAMP,5,daily,2020-11-05,Q4 no RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,Q4 no RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-10-30,PCA4 logistic,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,PCA4 logistic,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,PCA4 logistic,36,2,7,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-05,PCA4 logistic,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,PCA4 logistic,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-10-30,Chronology only,382,19,0,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-03,Chronology only,463,24,1,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-04,Chronology only,36,2,7,0,0.0,0,0,1,1
+KAMP,5,daily,2020-11-05,Chronology only,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,Chronology only,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-10-30,Family only,382,19,0,0,0.0,0,0,382,19
+KAMP,5,daily,2020-11-03,Family only,463,24,1,0,0.05183585313174946,0,1,463,24
+KAMP,5,daily,2020-11-04,Family only,36,2,7,0,0.3888888888888889,0,2,36,2
+KAMP,5,daily,2020-11-05,Family only,1,0,0,0,0.0,0,0,0,0
+KAMP,5,daily,2020-11-06,Family only,1,0,0,0,0.0,0,0,0,0
+KAMP,10,pooled,all dates,Full RBF,883,89,8,7,7.0,7,7,1,1
+KAMP,10,pooled,all dates,PCA4 RBF,883,89,8,7,7.0,7,7,1,1
+KAMP,10,pooled,all dates,Q4 + RZZ,883,89,8,7,7.0,7,7,1,1
+KAMP,10,pooled,all dates,Q4 no RZZ,883,89,8,7,7.0,7,7,1,1
+KAMP,10,pooled,all dates,PCA4 logistic,883,89,8,7,7.0,7,7,1,1
+KAMP,10,pooled,all dates,Chronology only,883,89,8,0,0.0,0,0,1,1
+KAMP,10,pooled,all dates,Family only,883,89,8,7,7.060355029585799,7,8,845,51
+KAMP,10,daily,2020-10-30,Full RBF,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,Full RBF,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,Full RBF,36,4,7,1,1.0,1,1,1,1
+KAMP,10,daily,2020-11-05,Full RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,Full RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-10-30,PCA4 RBF,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,PCA4 RBF,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,PCA4 RBF,36,4,7,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-05,PCA4 RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,PCA4 RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-10-30,Q4 + RZZ,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,Q4 + RZZ,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,Q4 + RZZ,36,4,7,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-05,Q4 + RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,Q4 + RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-10-30,Q4 no RZZ,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,Q4 no RZZ,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,Q4 no RZZ,36,4,7,1,1.0,1,1,1,1
+KAMP,10,daily,2020-11-05,Q4 no RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,Q4 no RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-10-30,PCA4 logistic,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,PCA4 logistic,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,PCA4 logistic,36,4,7,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-05,PCA4 logistic,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,PCA4 logistic,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-10-30,Chronology only,382,38,0,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-03,Chronology only,463,47,1,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-04,Chronology only,36,4,7,0,0.0,0,0,1,1
+KAMP,10,daily,2020-11-05,Chronology only,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,Chronology only,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-10-30,Family only,382,38,0,0,0.0,0,0,382,38
+KAMP,10,daily,2020-11-03,Family only,463,47,1,0,0.10151187904967603,0,1,463,47
+KAMP,10,daily,2020-11-04,Family only,36,4,7,0,0.7777777777777778,0,4,36,4
+KAMP,10,daily,2020-11-05,Family only,1,0,0,0,0.0,0,0,0,0
+KAMP,10,daily,2020-11-06,Family only,1,0,0,0,0.0,0,0,0,0
+KAMP,20,pooled,all dates,Full RBF,883,177,8,8,8.0,8,8,1,1
+KAMP,20,pooled,all dates,PCA4 RBF,883,177,8,7,7.0,7,7,1,1
+KAMP,20,pooled,all dates,Q4 + RZZ,883,177,8,7,7.0,7,7,1,1
+KAMP,20,pooled,all dates,Q4 no RZZ,883,177,8,7,7.0,7,7,1,1
+KAMP,20,pooled,all dates,PCA4 logistic,883,177,8,8,8.0,8,8,1,1
+KAMP,20,pooled,all dates,Chronology only,883,177,8,0,0.0,0,0,1,1
+KAMP,20,pooled,all dates,Family only,883,177,8,7,7.164497041420118,7,8,845,139
+KAMP,20,daily,2020-10-30,Full RBF,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,Full RBF,463,93,1,1,1.0,1,1,1,1
+KAMP,20,daily,2020-11-04,Full RBF,36,7,7,1,1.0,1,1,1,1
+KAMP,20,daily,2020-11-05,Full RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,Full RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-10-30,PCA4 RBF,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,PCA4 RBF,463,93,1,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-04,PCA4 RBF,36,7,7,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-05,PCA4 RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,PCA4 RBF,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-10-30,Q4 + RZZ,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,Q4 + RZZ,463,93,1,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-04,Q4 + RZZ,36,7,7,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-05,Q4 + RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,Q4 + RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-10-30,Q4 no RZZ,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,Q4 no RZZ,463,93,1,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-04,Q4 no RZZ,36,7,7,1,1.0,1,1,1,1
+KAMP,20,daily,2020-11-05,Q4 no RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,Q4 no RZZ,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-10-30,PCA4 logistic,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,PCA4 logistic,463,93,1,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-04,PCA4 logistic,36,7,7,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-05,PCA4 logistic,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,PCA4 logistic,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-10-30,Chronology only,382,77,0,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-03,Chronology only,463,93,1,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-04,Chronology only,36,7,7,0,0.0,0,0,1,1
+KAMP,20,daily,2020-11-05,Chronology only,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,Chronology only,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-10-30,Family only,382,77,0,0,0.0,0,0,382,77
+KAMP,20,daily,2020-11-03,Family only,463,93,1,0,0.20086393088552915,0,1,463,93
+KAMP,20,daily,2020-11-04,Family only,36,7,7,0,1.3611111111111112,0,7,36,7
+KAMP,20,daily,2020-11-05,Family only,1,0,0,0,0.0,0,0,0,0
+KAMP,20,daily,2020-11-06,Family only,1,0,0,0,0.0,0,0,0,0
+ProBayes,5,pooled,all dates,Full RBF,360,18,60,9,9.0,9,9,1,1
+ProBayes,5,pooled,all dates,PCA4 RBF,360,18,60,12,12.0,12,12,1,1
+ProBayes,5,pooled,all dates,Q4 + RZZ,360,18,60,2,2.0,2,2,1,1
+ProBayes,5,pooled,all dates,Q4 no RZZ,360,18,60,12,12.0,12,12,1,1
+ProBayes,5,pooled,all dates,PCA4 logistic,360,18,60,12,12.0,12,12,1,1
+ProBayes,5,pooled,all dates,Chronology only,360,18,60,0,0.0,0,0,1,1
+ProBayes,5,daily,2021-12-15,Full RBF,204,10,48,5,5.0,5,5,1,1
+ProBayes,5,daily,2022-03-17,Full RBF,156,8,12,8,0.8888888888888888,0,8,108,8
+ProBayes,5,daily,2021-12-15,PCA4 RBF,204,10,48,8,8.0,8,8,1,1
+ProBayes,5,daily,2022-03-17,PCA4 RBF,156,8,12,8,0.7272727272727273,0,8,132,8
+ProBayes,5,daily,2021-12-15,Q4 + RZZ,204,10,48,0,0.0,0,0,1,1
+ProBayes,5,daily,2022-03-17,Q4 + RZZ,156,8,12,0,0.0,0,0,1,1
+ProBayes,5,daily,2021-12-15,Q4 no RZZ,204,10,48,10,10.0,10,10,1,1
+ProBayes,5,daily,2022-03-17,Q4 no RZZ,156,8,12,0,0.0,0,0,1,1
+ProBayes,5,daily,2021-12-15,PCA4 logistic,204,10,48,10,10.0,10,10,1,1
+ProBayes,5,daily,2022-03-17,PCA4 logistic,156,8,12,0,0.0,0,0,1,1
+ProBayes,5,daily,2021-12-15,Chronology only,204,10,48,0,0.0,0,0,1,1
+ProBayes,5,daily,2022-03-17,Chronology only,156,8,12,8,8.0,8,8,1,1
+ProBayes,10,pooled,all dates,Full RBF,360,36,60,24,24.0,24,24,1,1
+ProBayes,10,pooled,all dates,PCA4 RBF,360,36,60,19,19.0,19,19,1,1
+ProBayes,10,pooled,all dates,Q4 + RZZ,360,36,60,12,12.0,12,12,1,1
+ProBayes,10,pooled,all dates,Q4 no RZZ,360,36,60,12,12.0,12,12,1,1
+ProBayes,10,pooled,all dates,PCA4 logistic,360,36,60,18,18.0,18,18,1,1
+ProBayes,10,pooled,all dates,Chronology only,360,36,60,0,0.0,0,0,1,1
+ProBayes,10,daily,2021-12-15,Full RBF,204,20,48,9,9.0,9,9,1,1
+ProBayes,10,daily,2022-03-17,Full RBF,156,16,12,12,1.7777777777777777,0,12,108,16
+ProBayes,10,daily,2021-12-15,PCA4 RBF,204,20,48,12,12.0,12,12,1,1
+ProBayes,10,daily,2022-03-17,PCA4 RBF,156,16,12,12,1.4545454545454546,0,12,132,16
+ProBayes,10,daily,2021-12-15,Q4 + RZZ,204,20,48,2,2.0,2,2,1,1
+ProBayes,10,daily,2022-03-17,Q4 + RZZ,156,16,12,0,0.0,0,0,1,1
+ProBayes,10,daily,2021-12-15,Q4 no RZZ,204,20,48,12,12.0,12,12,1,1
+ProBayes,10,daily,2022-03-17,Q4 no RZZ,156,16,12,3,3.0,3,3,1,1
+ProBayes,10,daily,2021-12-15,PCA4 logistic,204,20,48,12,12.0,12,12,1,1
+ProBayes,10,daily,2022-03-17,PCA4 logistic,156,16,12,0,0.0,0,0,1,1
+ProBayes,10,daily,2021-12-15,Chronology only,204,20,48,0,0.0,0,0,1,1
+ProBayes,10,daily,2022-03-17,Chronology only,156,16,12,12,12.0,12,12,1,1
+ProBayes,20,pooled,all dates,Full RBF,360,72,60,24,24.0,24,24,1,1
+ProBayes,20,pooled,all dates,PCA4 RBF,360,72,60,28,28.0,28,28,1,1
+ProBayes,20,pooled,all dates,Q4 + RZZ,360,72,60,12,12.0,12,12,1,1
+ProBayes,20,pooled,all dates,Q4 no RZZ,360,72,60,12,12.0,12,12,1,1
+ProBayes,20,pooled,all dates,PCA4 logistic,360,72,60,24,24.0,24,24,1,1
+ProBayes,20,pooled,all dates,Chronology only,360,72,60,12,12.0,12,12,1,1
+ProBayes,20,daily,2021-12-15,Full RBF,204,41,48,24,24.0,24,24,1,1
+ProBayes,20,daily,2022-03-17,Full RBF,156,31,12,12,3.4444444444444446,0,12,108,31
+ProBayes,20,daily,2021-12-15,PCA4 RBF,204,41,48,22,22.0,22,22,1,1
+ProBayes,20,daily,2022-03-17,PCA4 RBF,156,31,12,12,2.8181818181818183,0,12,132,31
+ProBayes,20,daily,2021-12-15,Q4 + RZZ,204,41,48,12,12.0,12,12,1,1
+ProBayes,20,daily,2022-03-17,Q4 + RZZ,156,31,12,2,2.0,2,2,1,1
+ProBayes,20,daily,2021-12-15,Q4 no RZZ,204,41,48,12,12.0,12,12,1,1
+ProBayes,20,daily,2022-03-17,Q4 no RZZ,156,31,12,11,11.0,11,11,1,1
+ProBayes,20,daily,2021-12-15,PCA4 logistic,204,41,48,19,19.0,19,19,1,1
+ProBayes,20,daily,2022-03-17,PCA4 logistic,156,31,12,0,0.0,0,0,1,1
+ProBayes,20,daily,2021-12-15,Chronology only,204,41,48,0,0.0,0,0,1,1
+ProBayes,20,daily,2022-03-17,Chronology only,156,31,12,12,12.0,12,12,1,1

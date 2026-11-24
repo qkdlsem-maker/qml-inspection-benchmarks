@@ -1,0 +1,7 @@
+{
+  "change": "Source-format amendment, recorded before opening individual November 2022 quality outcomes or producing any model scores.",
+  "original_protocol_sha256": "33fafbc7887536b0a49226b1eef73b41be4fde66f710c783882f051d67c99ef2",
+  "source_format": "Permit one third-party CSV conversion pinned by repository commit or Git blob, after recording its raw SHA-256 and verifying source provenance, observed dates, cycle identities, advertised size, the eight exact source feature names and comparable measurement units, and the binary manual NOK outcome field. Report its provenance separately from the authoritative Parquet's published MD5. No byte equivalence or row-by-row match to the unmaterialized original is implied.",
+  "eligibility_and_analysis": "All original input, eligibility, model, ranking, primary, sensitivity and reporting choices remain fixed. Verify the source and field semantics before scoring; pause on conflicting duplicate IDs or unresolved unit, label or campaign mismatches. Publish any discrepancy with its denominator.",
+  "timing": "Recorded in the same analysis session as the original protocol, after discovery of a possible CSV mirror and before the authors' analysis of any external labels or scores. Internal protocol only."
+}

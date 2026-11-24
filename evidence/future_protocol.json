@@ -1,0 +1,11 @@
+{
+  "purpose": "Unscored temporal transfer check on the later ProBayes D-optimal campaign. Internal protocol written before external per-part labels or model scores were examined; public design and advertised cohort size were known. Not a public preregistration.",
+  "date_utc": "2026-11-23 analysis session (KST)",
+  "dataset": "10.23728/b2share.3f80952ce5ff4be88ae4cf6a3bdfe732",
+  "reference_source": "10.23728/b2share.4c5692b886db419180f716acf895bf06",
+  "train": "204 PP cycles on 2021-12-07 of original ProBayes only, identical complete 8 features, identical preprocessing and models. No inclusion of either historical evaluation day, no retraining on the new campaign, no new tuning. Use exact feature equivalents and published per-part NOK coding.",
+  "primary": "At 10% of eligible cycles (ceil), compare daily defective units detected by frozen 4-qubit RZZ vs matched PCA4 RBF; report PCA4 logistic, Full RBF, Q4 without RZZ and chronology-only controls regardless of ranking. Report with time-ordered exact ties and expected detections for uniform tie-breaking.",
+  "secondary": "Same budget pooled, prespecified 5% and 20% sensitivity, date-specific oracle and uniform random expectation, and distinct affected date/setting blocks if available, each reported separately. Single observed test day makes pooled/daily equivalent.",
+  "time": "Use cycle start timestamp for date and chronological ranking, ascending. A unique machine cycle ID and then source row break equal timestamps. Hamilton largest remainder apportionment from fixed total, earlier date breaks a remainder tie.",
+  "eligibility": "Rows with valid cycle time stamp and binary manual-quality target; identical duplicates of a part deduplicated, conflicting duplicated part IDs documented. Train-median imputation for missing values among 8 source features. Record file hash, schema, eligibility, any exact field-name correspondence, and deviations before scoring. No new input feature or surrogate quality label. If data inaccessible or target/inputs incomparable, do not claim new experiment."
+}
