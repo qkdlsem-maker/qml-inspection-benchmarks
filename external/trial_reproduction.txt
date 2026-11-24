@@ -1,0 +1,13 @@
+Trial-shot flag sensitivity
+
+This exploratory check uses scores from the fixed, earlier training fit. It examines the D value of the recorded tryshot_signal flag. Shots without D are described by the observed flag field. Their production status and physical defect type were not independently adjudicated.
+
+The all-shot rows preserve the original largest-remainder quotas and selected shot IDs for each of the five original models. They show how many of the retrieved events carry a D flag. The D-first comparator gives priority to D within each date, then breaks ties by timestamp and source row. Its use in operation would require knowledge of the flag at the decision time. The no-D rows independently recalculate the 10% daily allocation on that subset and apply the original frozen model scores without refitting or parameter selection. This is a different inspection universe. The same rows and budgets underpin all methods within each universe.
+
+After completing the main and continuation freeze and evaluation, run the following separately. Substitute the paths to your two input files and freeze directories. Each freeze directory must contain its external_freeze.json, frozen_scores.csv and frozen_inspections.csv. The program checks the three source/input file hashes against the manifest and verifies each original all-record selection.
+
+python trial_flag_sensitivity.py --data diecasting_train.csv --scores results/frozen_scores.csv --picks results/frozen_inspections.csv --output trial_flag_sensitivity_primary.csv
+
+python trial_flag_sensitivity.py --data competition_full.csv --scores followon_results/frozen_scores.csv --picks followon_results/frozen_inspections.csv --output trial_flag_sensitivity_continuation.csv
+
+When a publicly released window supplies no usable binary labels, no outcome-sensitive table can be computed for that window. Do not assign values to missing labels.
